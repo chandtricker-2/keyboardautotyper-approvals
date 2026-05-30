@@ -10,6 +10,12 @@
       "text": "Welcome! Your 7-day trial is active."
     },
     {
+      "name": "CHAND",
+      "android_id": "CHAND-423d72078f7fe5f0-TRICKER",
+      "plan": "Test",
+      "text": "Welcome! Your 7-day trial is active."
+    },
+    {
       "name": "Sara Khan",
       "android_id": "CHAND",
       "plan": "Monthly",
@@ -17,7 +23,7 @@
     },
     {
       "name": "Usman Ali",
-      "android_id": "CHAND-423d72078f7fe5f0-TRICKER",
+      "android_id": "",
       "plan": "Quarterly",
       "text": "Quarterly plan active. 3 months of full access."
     },
